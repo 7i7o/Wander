@@ -1,8 +1,8 @@
 # nixpacks.toml
 
 [phases.setup]
-nixpkgsArchive = '1bc6e6c0954a2089f067fac8cc43fa65a7d204cc'
-#nixPkgs = ['...', 'cowsay']
+nixPkgs = ['mise']
+#nixpkgsArchive = '1bc6e6c0954a2089f067fac8cc43fa65a7d204cc'
 
 #[phases.build]
 #cmds = ['yarn run server:build']
